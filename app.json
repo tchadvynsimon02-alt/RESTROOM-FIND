@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "RESTROOM FIND",
+    "slug": "restroom-find",
+    "scheme": "restroom-find",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "plugins": ["expo-router", "expo-location"]
+  }
+}
